@@ -68,7 +68,7 @@ public class Snowman {
         return accessories;
     }
     public void setAccessories(List<String> accessories)
-    {
+     {
         this.accessories = accessories;
     }
 }
